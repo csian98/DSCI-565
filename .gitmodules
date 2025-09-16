@@ -1,0 +1,3 @@
+[submodule "Project"]
+	path = Project
+	url = git@github.com:csian98/Anomaly-Detection.git
