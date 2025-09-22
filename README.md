@@ -11,7 +11,7 @@
 
 <br/>
 <div align="center">
-	<a href="https://github.com/csian98/sian">
+	<a href="https://github.com/csian98/DSCI-565">
 		<img src="images/logo.png" alt="Logo" width="150" height="150">
 	</a>
 	<h3 align="center">DSCI-565: Introduction to Deep Learning for Data Science</h3>	
@@ -39,7 +39,8 @@
 
 ## Homework
 
-
+* [[HW1]](https://github.com/csian98/DSCI-565/tree/main/Homeworks/HW1) Pytorch CIFAR-10 classifier
+* [[HW2]](https://github.com/csian98/DSCI_565/tree/main/Homeworks/HW2) Automatic Differentiation (Foreward & Reverse Accumulation)
 
 ## Project
 
