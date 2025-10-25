@@ -40,7 +40,9 @@
 ## Homework
 
 * [[HW1]](https://github.com/csian98/DSCI-565/tree/main/Homeworks/HW1) Pytorch CIFAR-10 classifier
-* [[HW2]](https://github.com/csian98/DSCI_565/tree/main/Homeworks/HW2) Automatic Differentiation (Foreward & Reverse Accumulation)
+* [[HW2]](https://github.com/csian98/DSCI-565/tree/main/Homeworks/HW2) Automatic Differentiation (Foreward & Reverse Accumulation)
+* [[HW3-(a)]](https://github.com/csian98/DSCI-565/tree/main/Homeworks/HW3-(a)) Automatic Differentiation with Tensors (Forward & Backward Propagation)
+* [[HW3-(b)]](https://github.com/csian98/DSCI-565/tree/main/Homeworks/HW3-(b)) Physics-Informed Neural Networks (PiNNs; Lapalace Equation: Dirichlet BCs)
 
 ## Project
 
