@@ -46,6 +46,8 @@
 
 ## Project
 
+* [[DSCI564-Project]](https://github.com/csian98/Anomaly-Detection) Network Traffic Anomaly Detection (with Yuxuan Liu)
+
 
 ## 🔐 License
 
